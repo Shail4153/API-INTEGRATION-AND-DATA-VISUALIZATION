@@ -18,13 +18,6 @@ This Python script is designed to fetch and visualize the current position of th
 
 ---
 
-### OUPUT OF THE TASK
-
-![task1](https://github.com/user-attachments/assets/d54f5614-b9fd-4723-8b7e-294472feb706)
-
----
-
-
 ### **1. Importing Required Libraries**
 - **`requests`**: For making HTTP requests to fetch data from the API.
 - **`pandas`**: To structure and handle data in a tabular format for analysis.
